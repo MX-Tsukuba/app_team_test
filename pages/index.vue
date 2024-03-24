@@ -1,6 +1,6 @@
 <template>
   <div>
     <p>title</p>
-    <Kazuki />
+    <Kazuki/>    
   </div>
 </template>
