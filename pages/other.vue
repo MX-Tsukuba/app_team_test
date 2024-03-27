@@ -3,7 +3,7 @@
         <h1>{{title}}</h1>
         <p>{{message}}</p>
         <hr>
-        <router-link to="/other">Go to Top</router-link>
+        <router-link to="/">Go to Top</router-link>
     </section>
 </template>
   
@@ -15,7 +15,7 @@ export default {
             title:'Other',
             message: 'これは、別のページです。',
         };
-    },
+    }
 }
 </script>
   

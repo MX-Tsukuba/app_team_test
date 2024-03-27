@@ -3,7 +3,7 @@
     <h1>{{title}}</h1>
     <p>{{message}}</p>
     <hr>
-    <router-link to="/">Go to Other</router-link>
+    <router-link to="/other">Go to Other</router-link>
   </section>
 </template>
 
